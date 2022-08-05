@@ -14,3 +14,7 @@ While installing ORB-Slam3, I was confronted with multiple problems and solving 
 • Gcc: 9.4.0
 
 Note: The whole guide is tested on the set up/ versions above. I would recommend you to use the same set up / versions, otherwise the guide might not help you. You certainly don't need to run it on a Raspberry pi- I just wanted to mention that I used one!
+
+## Further work 
+
+Currently, I am working on running ORB-SLAM3 with a specific sensor. I will probably add some results and some code to this repo when I am finished with project!
