@@ -3,9 +3,7 @@ While installing ORB-Slam3, I was confronted with multiple problems and solving 
 
 ## My set up/ used versions
 
-• Pangolin: standard version(provided by the Github link beneath)
-
-• Ubuntu 20.04 headless
+• Ubuntu 20.04 
 
 • Raspberry pi 4
 
