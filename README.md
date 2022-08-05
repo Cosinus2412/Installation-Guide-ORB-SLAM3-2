@@ -19,6 +19,6 @@ Note: The whole guide is tested on the set up/ versions above. I would recommend
 
 Currently, I am working on running ORB-SLAM3 with a specific sensor. I will probably add some results and code to this repo when I am finished with the project!
 
-### Some comments
+### Note
 
 If you encounter other/new errors using the same set up/ versions as above please free to report it in the issues!
