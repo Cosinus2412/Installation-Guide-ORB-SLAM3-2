@@ -21,5 +21,5 @@ Currently, I am working on running ORB-SLAM3 with a specific sensor. I will prob
 
 ### Note
 
-If you encounter other/new errors using the same set up/ versions as above please free to report it in the issues!
+If you encounter other/new errors using the same set up/ versions as above please feel free to report it in the issues!
 Links in the reference parts will be fixed soon...
