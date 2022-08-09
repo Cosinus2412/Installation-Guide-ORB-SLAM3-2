@@ -1,5 +1,5 @@
 # Installation-Guide-ORB-SLAM3-2
-While installing ORB-Slam3, I was confronted with multiple problems and solving them took me quite some time. Therefore, I decided to create this short repository, which focuses on how to install ORB-SLAM3/2 and provide you with solutions to fix occurring bugs quickly and easily. I hope it helps you to save some time! :)
+While installing ORB-Slam3, I was confronted with multiple problems and solving them took me quite some time. Therefore, I decided to create this short repository, which focuses on how to install ORB-SLAM3/2 and provides you with solutions to fix occurring bugs quickly and easily. I hope it helps you to save some time! :)
 
 ## My set up/ used versions
 
